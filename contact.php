@@ -1,5 +1,5 @@
 <?php
-require('../libs/Smarty.class.php');
+require('Smarty.class.php');
 $smarty = new Smarty;
 $smarty->assign("page_title","Contact");
 $smarty->assign("css_namespace","contact");

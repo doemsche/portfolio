@@ -1,5 +1,5 @@
 <?php
-require('../libs/Smarty.class.php');
+require('Smarty.class.php');
 $smarty = new Smarty;
 
 $smarty->assign("contacts", array(array("phone" => "1", "fax" => "2", "cell" => "3"),
