@@ -3,7 +3,7 @@
 
 	{foreach from=$projects item=project}
 		{if $id == $project.id}
-			{include file="project_detail.tpl" project = $projects[$project.id-1]}
+			{include file="project_detail.tpl" project = $project}
 		{/if}
 	{/foreach}
 	
