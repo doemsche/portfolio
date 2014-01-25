@@ -70,5 +70,14 @@
 		</section>
 	</div>
 </div>
-{*include file="footer.tpl"*}
+{include file="footer.tpl"}
 
+<script src="_resources/js/ga.js" async="" type="text/javascript"></script>
+<script src="_resources/js/jquery-latest.js"></script>
+<script src="_resources/js/stuff.js"></script>
+
+<script type="text/javascript" src="_resources/js/mail.js"></script>
+
+
+</body>
+</html>
