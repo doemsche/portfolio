@@ -4,7 +4,7 @@ $name = $_POST['name'];
 $subject = $_POST['subject'];
 $text = $_POST['text'];
 
-$to = "dominik.schlaepfer@meta-vue.ch";
+$to = "doemsche@gmx.ch";
 $message ="You received  a mail from".$mail;
 $message .="Text of the message:".$text;
 

@@ -44,7 +44,7 @@
 						<span class="anim"><h3>Web Clipper</h3></span>
 						<img src="{$image_path}9.png" alt="">
 					</a>
-					<a href="http://meta-vue.ch/portfolio/public/projects/" target="_blank" id="more-projects">more projects (old portfolio)></a>
+
 				</div>
 			</article>
 		</section>
