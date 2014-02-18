@@ -117,7 +117,7 @@ $smarty->assign("projects", array(
 		  "author"=> "Dominik Schlaepfer",
 		  "coffee" => "200 Cups",
 		  "tags" =>  array("tag_1" => "design", "tag_2" => "programming"),
-		  "media" => array("pdf" => "Dynament.pdf", "movie" => "http://www.youtube.com/watch?v=tWNU4cw-MuM", "www" => ""),
+		  "media" => array("pdf" => "Dynament.pdf", "movie" => "http://www.youtube.com/watch?v=tWNU4cw-MuM", "www" => "http://www.meta-vue.ch/BAdocu/wordpress/"),
 		  "pics" => array(0,1),
 		  "description" => "Ever since the web has become participative there are huge amounts of comments to nearly any kind of
 		   web content. Research shows that comments harbour underestimated information-carrier potential. Dynament is a concept which
