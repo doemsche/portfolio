@@ -36,15 +36,22 @@
 						<span class="anim"><h3>Dynament</h3></span>
 						<img src="{$image_path}7.png" alt="">
 					</a>
-					<a href="project.php?8" class="anim one-work">
+	<!-- 				<a href="project.php?8" class="anim one-work">
 						<span class="anim"><h3>Screen Typo</h3></span>
 						<img src="{$image_path}8.png" alt="">
 					</a>
 					<a href="project.php?9" class="anim one-work">
 						<span class="anim"><h3>Web Clipper</h3></span>
 						<img src="{$image_path}9.png" alt="">
+					</a> -->
+					<a href="project.php?10" class="anim one-work">
+						<span class="anim"><h3>Encoding Space</h3></span>
+						<img src="{$image_path}10.png" alt="">
 					</a>
-
+					<a href="project.php?11" class="anim one-work">
+						<span class="anim"><h3>Black Box</h3></span>
+						<img src="{$image_path}11.png" alt="">
+					</a>
 				</div>
 			</article>
 		</section>

@@ -154,9 +154,34 @@ $smarty->assign("projects", array(
 		  "description" => "The context of this project was an assessment-task for Memonic (Webclipping Software Company). My project focuses
 		   on the concept of a horizontal and vertical alignment of the Webclipper-Toolbar. Depending on the content it is important for the 
 		   user to have the choice where to align the toolbar so it does not interfere with the content."
-		)	
+		),
+	//Encoding Space
+	array("id" => 10,
+		  "name" => "Encoding Space",
+		  "subtitle" => "A digital, artistic abstraction of space!",
+		  "date"=> "2007",
+		  "author"=> "Dominik Schlaepfer",
+		  "coffee" => "80 Cups",
+		  "tags" =>  array("tag_1" => "programming", "tag_2" => "design"),
+		  "media" => array("pdf" => "Encoding Space.pdf", "movie" => "https://www.youtube.com/watch?v=NtSW6oWrajg", "swf" => ""),
+		  "pics" => array(0,1),
+		  "description" => "Starting point in this project is a public space of about 100m in the city of Zurich. This space is analysed, segemented and in different steps digitalized. The digitalized abstractions are set together and animated. The space in its abstraction should be experienced with the animation. In this project the space featured is a 100 meter space at Langstrasse in Zurich. "
+		),
+	//Black Box
+	array("id" => 11,
+		  "name" => "Black Box",
+		  "subtitle" => "Physical Computing meets Interaction Design",
+		  "date"=> "2009",
+		  "author"=> "Dominik Schlaepfer",
+		  "coffee" => "120 + Cups",
+		  "tags" =>  array("tag_1" => "physical", "tag_2" => "programming"),
+		  "media" => array("pdf" => "Black Box.pdf", "movie" => "https://www.youtube.com/watch?v=O0Z-Nd8ESRA", "swf" => ""),
+		  "pics" => array(0,1),
+		  "description" => "Black Box is, as the name suggests a black box from which only the measures are given. The task was to give the box functionality.
+The concept of our project was to create a black box equipped with a light-sensor, that could, while moving it around like a computer mouse, distinguish between black and white surfaces and give the user a haptic feedback about it."
+		)
 	//end
-	)
+	)	
 );
 
 $smarty->assign("page_title","Project");
